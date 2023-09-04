@@ -1,6 +1,6 @@
-console.log("Hola Mundo");
+console.log("Adios Mundo");
 console.log("Hola Mundo");
 
 function hola() {
-    return true;
+    return false;
 }
