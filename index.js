@@ -6,6 +6,7 @@ console.log("Feature Menu");
 console.log("Feature 2 Menu");
 console.log("Menu");
 console.log("Prueba cierre issue #4");
+console.log("Prueba cierre issue #5");
 
 function hola() {
     return false;
